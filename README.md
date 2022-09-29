@@ -229,20 +229,6 @@ A single viewpoint obtained from a single camera cannot reflect the result more 
       </div>
     </div>
 
-    <footer>
-      <h4> IEEE Citation </h4>
-      <p>
-      Web References Research paper
-	https://ieeexplore.ieee.org/document/9204934 </p>
-	<p>
-Social distancing
-	https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing- detector/
-	</p>
-	<p>
-Object detection
-	https://www.activestate.com/blog/how-to-monitor-social-distancing-using- python-and-object-detection
-</p>
-    </footer>
     
     <!-- Load additional JS scripts here -->
     <script type="text/javascript" src="script.js"></script>
