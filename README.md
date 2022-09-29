@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -94,6 +93,9 @@ Later, these bounding boxes are utilized to compute the pair wise L2 norm with c
   <h3>Software Architecture</h3>
   <p>Software architecture exposes the structure of a system while hiding the implementation details. Architecture also focuses on how the elements and components within a system interact with one other. Software design delves deeper into the implementation details of the system</p>
 
+<img src="https://drive.google.com/file/d/1zDpu2gDBqPr6uD4qdJfiGcn3gBu68BHL/view?usp=sharing" alt=”Software Architecture” width="400" height="200">
+
+</img>
 <h3>Technical Architecture</h3>
 <p>
 The technical architecture of the platform is modelled following the well-known and field tested three-tier architecture. This model proposes logical and physical separation of concerns (data access, business logic and presentation) in layers, with an
@@ -102,6 +104,10 @@ emphasis on maintainability and decoupling of components. The separation in laye
 Front end provides the visibility of application to the user and whereas middle ware provides the linkage between back end and front end and back end stores the data for the application.
 
 </p>
+<img src="https://drive.google.com/file/d/1W8kmQKxDRQWTZL7pTquWX_S3E9095hJ0/view?usp=sharing" alt=”Technical Architecture” width="400" height="200">
+
+</img>
+
 </div>
 
 <div id="Methodology" class="tabcontent">
@@ -122,6 +128,10 @@ After detection, the bounding box information, mainly centroid information is us
 Following computing centroid distance, a predefined threshold is used to check either the distance among any two bounding box centroids is less than the configured number of pixels or not. 
 If two people are close to each other and the distance value violates the minimum social distance threshold then the bounding box information is stored in a violation set and the color of the bounding box is updated or changed to red.
 </p>
+<img src="https://drive.google.com/file/d/1o_HF6DRYvq3wayW6fTx6eg25d5EGnHEi/view?usp=sharing" alt=”Technical Model” width="400" height="200">
+
+</img>
+
 </div>
 
 <div id="Conclusion and Future Scope" class="tabcontent">
