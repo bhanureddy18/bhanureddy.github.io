@@ -104,7 +104,7 @@ emphasis on maintainability and decoupling of components. The separation in laye
 Front end provides the visibility of application to the user and whereas middle ware provides the linkage between back end and front end and back end stores the data for the application.
 
 </p>
-<img src="https://drive.google.com/file/d/1W8kmQKxDRQWTZL7pTquWX_S3E9095hJ0/view?usp=sharing" alt=”Technical Architecture” width="400" height="200">
+<img src="https://drive.google.com/file/d/1W8kmQKxDRQWTZL7pTquWX_S3E9095hJ0/view?usp=sharing" alt=”Technical Architecture.png” width="400" height="200">
 
 </img>
 
