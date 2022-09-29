@@ -48,10 +48,13 @@ body {font-family: Arial;}
 <h2>Person Detection for Social Distancing using Computer Vision</h2>
 
 <div class="tab">
+<header id="header">
   <button class="tablinks" onclick="openCity(event, 'Home')">Home</button>
   <button class="tablinks" onclick="openCity(event, 'Architecture')">Architecture</button>
   <button class="tablinks" onclick="openCity(event, 'Methodology')">Methodology</button>
   <button class="tablinks" onclick="openCity(event, 'Conclusion and Future Scope')">Conclusion and Future Scope</button>
+      </header>
+   
 
 
 
