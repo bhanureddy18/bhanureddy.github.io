@@ -25,18 +25,19 @@
   <body>
 
     <header id="header">
-      <h1>Computer Vision and Animals</h1>
+      <h1>Person Detection</h1>
       
       <!-- Menu link fragment #id should match a div id. Example: <a href="#home"> links to <div id="home"></div>  -->
-      <ul class="main-menu">
-        
-        <li><a href="#home" class="">Home</a></li>
-        <li><a href="#architecture" class="">Architecture</a></li>
-        <li><a href="#methodology" class="active">Methodology</a></li>
-        <li><a href="#conclusion and future scope" class="">Conclusion and Future Scope</a></li>
-        <li><a href="#result" class="">Result</a></li>
-        <li><a href="#quiz" class="">Quiz</a></li>
-      </ul>                 
+      <div class="tab">
+  <button class="tablinks" onclick="openCity(event, 'Home')">Home</button>
+  <button class="tablinks" onclick="openCity(event, 'Architecture')">Architecture</button>
+  <button class="tablinks" onclick="openCity(event, 'Methodology')">Methodology</button>
+  <button class="tablinks" onclick="openCity(event, 'Conclusion and Future Scope')">Conclusion and Future Scope</button>
+
+
+
+</div>
+                 
     </header>
    
     <div id="container">
