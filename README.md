@@ -38,6 +38,8 @@
         <li><a href="#quiz" class="">Quiz</a></li>
       </ul>                 
     </header>
+	background-image: url('https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg');
+    color: #FFFFFF;
    
     <div id="container">
       <div class="inner">
@@ -230,20 +232,16 @@ A single viewpoint obtained from a single camera cannot reflect the result more 
     <footer>
       <h4> IEEE Citation </h4>
       <p>
-        M. Lakhani, “Inside a car with its own mind,” Medium, 11-Jun-2021. [Online]. Available: https://medium.com/analytics-vidhya/inside-a-car-with-its-own-mind-960d792c3b42. [Accessed: 25-Sep-2022]. 
-      </p>
-      <p>
-        S. Gupta, “Computer Vision based Animal Collision Avoidance Framework for Autonomous Vehicles,” arXiv.org, 20-Dec-2020. [Online]. Available: https://arxiv.org/pdf/2012.10878.pdf. [Accessed: 25-Sep-2022]. 
-      </p>
-      <p>
-        I. Nandutu, M. Atemkeng, and P. Okouma, “Intelligent Systems using sensors and/or machine learning to mitigate wildlife–vehicle collisions: A review, Challenges, and New Perspectives,” MDPI, 23-Mar-2022. [Online]. Available: https://doi.org/10.3390/s22072478. [Accessed: 25-Sep-2022]. 
-      </p>
-      <p>  
-        P. Aggarwal, “Detecting lanes with opencv and testing on Indian Roads,” Medium, 12-Mar-2017. [Online]. Available: https://medium.com/computer-car/my-lane-detection-project-for-the-self-driving-car-nanodegree-by-udacity-36a230553bd3. [Accessed: 25-Sep-2022]. 
-      </p>
-      <p>  
-        S. R. Govardhanam, “Training your own data set using mask_r-CNN for detecting multiple classes,” Medium, 22-Jan-2020. [Online]. Available: https://medium.com/analytics-vidhya/training-your-own-data-set-using-mask-r-cnn-for-detecting-multiple-classes-3960ada85079. [Accessed: 25-Sep-2022]. 
-      </p>
+      Web References Research paper
+	https://ieeexplore.ieee.org/document/9204934 </p>
+	<p>
+Social distancing
+	https://www.pyimagesearch.com/2020/06/01/opencv-social-distancing- detector/
+	</p>
+	<p>
+Object detection
+	https://www.activestate.com/blog/how-to-monitor-social-distancing-using- python-and-object-detection
+</p>
     </footer>
     
     <!-- Load additional JS scripts here -->
