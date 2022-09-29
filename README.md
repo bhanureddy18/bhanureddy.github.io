@@ -59,6 +59,9 @@ body {font-family: Arial;}
 
 
 </div>
+<div id="container">
+      <div class="inner">
+        <div id="content"> 
 
 
 
@@ -151,6 +154,9 @@ A single viewpoint obtained from a single camera cannot reflect the result more 
  
 
 </p>
+</div>
+</div>
+</div>
 </div>
 
 
