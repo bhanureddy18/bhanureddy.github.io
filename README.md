@@ -3,7 +3,8 @@
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
-body {font-family: Arial;}
+body {font-family: Arial,background-image: url('https://scx1.b-cdn.net/csz/news/800/2017/theoreticala.jpg');
+    color: #FFFFFF;}
 
 /* Style the tab */
 .tab {
