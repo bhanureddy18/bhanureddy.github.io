@@ -15,7 +15,7 @@ body {font-family: Arial,background-image: url('https://scx1.b-cdn.net/csz/news/
 
 /* Style the buttons inside the tab */
 .tab button {
-  background-color: inherit;
+  background-color: blue;
   float: left;
   border: none;
   outline: none;
